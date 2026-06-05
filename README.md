@@ -4,6 +4,8 @@
 
 本專案同時整合了 **NVIDIA Cosmos 基礎世界模型**（透過 Hugging Face Inference API）與 **Google Gemini 3.1 直連影像生成模型**，並提供一鍵智能容錯、自動 Prompt 優化與精美畫廊功能，非常適合部署在 **Streamlit Community Cloud (streamlit.io)** 上，作為您的個人作品集或作業成果繳交。
 
+🚀 **Live Demo:** [https://image-generation-rhfpuvrwvsjhwfz4ew83hd.streamlit.app/](https://image-generation-rhfpuvrwvsjhwfz4ew83hd.streamlit.app/)
+
 ## **🌟 專案核心特色**
 
 * **⚡ 雙圖像生成引擎自由切換**：  
